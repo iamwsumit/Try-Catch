@@ -1,6 +1,6 @@
 # TryCatch
 
-Hi evryone, I hope you are all good. Today I come with a little extension but very useful for you. This extension allows you to call methods and set the properties with try and catch. WHat is Try & Catch? Try and catch place around the code to catch the exception like if you have a list of 3 items and you are selecting 4th then it will throw a runtime error with a dialog that impact very bad on UI and to user. So that's why I come up with this little extension. It has few blocks that will help you to catch the exception while calling the method and setting the properties of the components. As it works througn Java reflection so you can also call method of extensions even this extension.
+Hi everyone, I hope you are all good. Today I come with a little extension but very useful for you. This extension allows you to call methods and set the properties with try and catch. WHat is Try & Catch? Try and catch place around the code to catch the exception like if you have a list of 3 items and you are selecting 4th then it will throw a runtime error with a dialog that impact very bad on UI and to user. So that's why I come up with this little extension. It has few blocks that will help you to catch the exception while calling the method and setting the properties of the components. As it works througn Java reflection so you can also call method of extensions even this extension.
 
 So let see its blocks and their documentation.
 
@@ -34,8 +34,15 @@ Selecting a item from a list for given index.
 
 ![image](https://user-images.githubusercontent.com/74917290/126428802-b9efd46b-33bc-4e02-8176-77de12eb4aad.png)
 
-Calling a return a method of a label
+Calling a return a method of a label. The same way you can call the void methods of the extension and designer property of the components. Just remember to pass the parameter for the method that you're calling. 
 
 ![image](https://user-images.githubusercontent.com/74917290/126428677-dea26e28-9dc5-48e1-965c-062695cef847.png)
 
+Calling a return method of the extension. 
 
+## Download
+
+You can download the extension from out folder or click [here](https://github.com/Sumit1334/Try-Catch/blob/main/out/com.sumit1334.trycatch.aix?raw=true)
+
+## Contact
+Contact Sumit for asking about this extension
